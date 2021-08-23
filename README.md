@@ -1,5 +1,5 @@
-# learn
-Учебный проект Vue + VueCLI 
+# project1
+Учебный проект Vue + VueCLI + vue-router
 ## Project setup
 ```
 npm install
